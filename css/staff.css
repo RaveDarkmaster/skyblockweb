@@ -75,21 +75,25 @@ h2 {
 .mb {width: 96%; background: #33af33;}
 .mc {width: 98%; background: #4286f4;}
 
-.owner,
-.manager,
-.admin, 
-.architect,
+.Owner,
+.Manager,
+.Admin, 
+.Architect,
 .head-architect,
-.mod{
+.Mod
+.Helper
+.Retired{
 	padding: 12px;
 }
 
-.owner {background-color: rgba(244, 65, 65, .5);}
-.manager {background-color: rgba(66, 134, 244, .5);}
-.admin {background-color: rgba(59, 211, 42, .5);}
-.architect {background-color: rgba(241, 196, 15, .5);}
-.head-architect {background-color: rgba(241, 196, 15, .5);}
-.mod {background-color: rgba(0, 233, 196, .5);}
+.Owner {background-color: rgba(244, 65, 65, .5);}
+.Manager {background-color: rgba(66, 134, 244, .5);}
+.Admin {background-color: rgba(59, 211, 42, .5);}
+.Architect {background-color: rgba(241, 196, 15, .5);}
+.Head-architect {background-color: rgba(241, 196, 15, .5);}
+.Mod {background-color: rgba(0, 233, 196, .5);}
+.Helper {background-color: rgba(0, 233, 196, .5);}
+.Retired {background-color: rgba(0, 233, 196, .5);}
 /* Footer */
 footer {
 	margin-top: 0;
