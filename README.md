@@ -1,2 +1,2 @@
 # skyblockwebport
-ReignCraft new Skyblock web portal
+ReignCraft new Skyblock web portal/
